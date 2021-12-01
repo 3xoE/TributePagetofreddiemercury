@@ -11,6 +11,10 @@
   margin-right: auto;
   max-width: 40%;
 }
+#image {
+  max-width: 500px;
+  display: block;
+}
 
 #img-caption {
   max-width: 80%;
@@ -25,7 +29,9 @@
 }
 
 #tribute-link {
-  text-align: center;
+  display: block;
+  padding-left: 30%;
+  padding-right: 30%;
 }
 
 .row {
